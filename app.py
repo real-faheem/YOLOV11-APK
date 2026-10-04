@@ -8,7 +8,7 @@ st.set_page_config(page_title="Vehicle Number Plate Detection", layout="centered
 
 # Description Section
 with st.sidebar:
-    st.title("Faheem - Developer")
+    st.title("Bency Robert - Developer")
     with st.expander("About Project"):
         st.markdown("""
         Hi! Glad you intended to find the description about my project...
